@@ -1,4 +1,4 @@
-# cellular-network-deployments
+# 3GPP Cellular Network Deployments
 
 **To implement a Cellular Network Layout for various coverage scenarios:**
 
