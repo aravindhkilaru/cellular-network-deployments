@@ -1,6 +1,6 @@
 # 3GPP Cellular Network Deployments
 
-**To implement a Cellular Network Layout for various coverage scenarios:**
+**To implement a 3GPP cellular network layout for various coverage scenarios:**
 
   - Urban Micro (UMi)
   - Urban Macro (UMa)
