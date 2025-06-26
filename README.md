@@ -2,15 +2,11 @@
 
 **To implement a Cellular Network Layout for various coverage scenarios:**
 
-  -- Urban Micro (UMi)
-  
-  -- Urban Macro (UMa)
-  
-  -- Sub-Urban Macro (SMa)
-  
-  -- Rural Macro (RMa)
-  
-  -- Indoor Factory (InF)
+  - Urban Micro (UMi)
+  - Urban Macro (UMa)
+  - Sub-Urban Macro (SMa)
+  - Rural Macro (RMa)
+  - Indoor Factory (InF)
 
 **Evaluate the characteristics and performance of Cellular Network Layouts:**
 
