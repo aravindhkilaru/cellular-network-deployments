@@ -34,9 +34,9 @@ You can use the code `5g_4g_network_simulation.py` to generate honeycomb grid la
 ![spectral_efficiency_CDF](https://github.com/user-attachments/assets/c8568e70-a6d3-4dcb-a62e-0f936f704b50)
 ![CDF_SINR](https://github.com/user-attachments/assets/ad1dfd11-a1ed-43cb-b803-04e029cce1f8)
 
-and
-Connection Density: 69.54 UEs/km²
-Average Spectral Efficiency: 0.52 bps/Hz
-Area Capacity: 36.22 bps/Hz/km²
+and calculation of 
+**Connection Density:** _ _._ _ UEs/km²
+**Average Spectral Efficiency:** _._ _ bps/Hz
+**Area Capacity:** _ _._ _ bps/Hz/km²
 
 **_Note: These codes were designed to teach undergraduate students about cellular network layouts._**
